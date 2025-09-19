@@ -5,7 +5,7 @@ products:
 - GitHub Actions
 - Azure App service
 languages:
-- dotnet core
+- dotnet corexxxx
 ---
 
 # Sample ASP.NET Core application for GitHub Actions - Test Run
@@ -84,4 +84,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
 
