@@ -1,5 +1,5 @@
 ---
-page_type: dotnet core
+page_type: dotnet corex
 description: "Deploy .NET application using GitHub Actions"
 products:
 - GitHub Actions
@@ -84,5 +84,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
 
 
