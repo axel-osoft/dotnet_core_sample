@@ -8,7 +8,7 @@ languages:
 - dotnet corexxxx
 ---
 
-# Sample ASP.NET Core applicaxxxxxxxxxxion for GitHub Actions - xxxxxxxxxxxxTest Runxxxxxxxxxxx
+# Sample ASP.NET Core applicaxxxxxxxxxxion for GitHub Actions - xxxxxxxxxxxxTest Runxxxxxxxxxxxyyyy
 
 For all samples to set up GitHub workflows, see [Create your first workflow](https://github.com/Azure/actions-workflow-samples
 
@@ -84,6 +84,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
 
 
 
